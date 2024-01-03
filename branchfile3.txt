@@ -1,0 +1,2 @@
+save the many files and give git stash insted of git commit 
+because,if we want to change anything its posibble
