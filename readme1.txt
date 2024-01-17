@@ -1,4 +1,5 @@
-//operator overing  
+//operator overinging using c++
+
 #include<iostream>
 using namespace std;
 class operatorOverload{
