@@ -1,0 +1,13 @@
+#include <stdio.h> 
+void main()  
+{  
+int a[10],i,n;  
+printf(“\nEnter the size of the array: ); scanf(“%d”,&n);  
+printf(“\nEnter %d elements for the array:\n”,n);  
+for(i=0;i<n;i++) 
+scanf(“%d”,&a[i]);  
+printf(“\nArray Contents:\n”);  
+for(i=0;i<n;i++) 
+printf(“%d\t”,a[i]); 
+getch(); 
+}
